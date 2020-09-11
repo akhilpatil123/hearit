@@ -1,0 +1,10 @@
+/home/akhil/Documents/rnnoise-2/build/CMakeFiles/edit_cache.dir
+/home/akhil/Documents/rnnoise-2/build/CMakeFiles/rebuild_cache.dir
+/home/akhil/Documents/rnnoise-2/build/src/CMakeFiles/edit_cache.dir
+/home/akhil/Documents/rnnoise-2/build/src/CMakeFiles/rebuild_cache.dir
+/home/akhil/Documents/rnnoise-2/build/src/CMakeFiles/rnnoise_static.dir
+/home/akhil/Documents/rnnoise-2/build/src/CMakeFiles/rnnoise.dir
+/home/akhil/Documents/rnnoise-2/build/examples/CMakeFiles/rebuild_cache.dir
+/home/akhil/Documents/rnnoise-2/build/examples/CMakeFiles/rnnoise_demo_simple.dir
+/home/akhil/Documents/rnnoise-2/build/examples/CMakeFiles/edit_cache.dir
+/home/akhil/Documents/rnnoise-2/build/examples/CMakeFiles/rnnoise_demo.dir

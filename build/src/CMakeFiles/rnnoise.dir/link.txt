@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC -O3 -DNDEBUG -s  -shared -Wl,-soname,librnnoise.so -o ../lib/librnnoise.so CMakeFiles/rnnoise.dir/denoise.c.o CMakeFiles/rnnoise.dir/celt_lpc.c.o CMakeFiles/rnnoise.dir/pitch.c.o CMakeFiles/rnnoise.dir/rnn.c.o CMakeFiles/rnnoise.dir/rnn_data.c.o 

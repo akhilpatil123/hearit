@@ -1,0 +1,1 @@
+/usr/bin/cc  -O3 -DNDEBUG -s   CMakeFiles/rnnoise_demo.dir/rnnoise_demo.c.o  -o ../bin/rnnoise_demo  -L/home/akhil/Documents/rnnoise-2/build/lib -lrnnoise -lm -lrt -Wl,-rpath,/home/akhil/Documents/rnnoise-2/build/lib 

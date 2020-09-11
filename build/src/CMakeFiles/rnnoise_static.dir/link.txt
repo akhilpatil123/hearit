@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/librnnoise.a  CMakeFiles/rnnoise_static.dir/denoise.c.o CMakeFiles/rnnoise_static.dir/celt_lpc.c.o CMakeFiles/rnnoise_static.dir/pitch.c.o CMakeFiles/rnnoise_static.dir/rnn.c.o CMakeFiles/rnnoise_static.dir/rnn_data.c.o
+/usr/bin/ranlib ../lib/librnnoise.a

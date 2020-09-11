@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../examples/../include/rnnoise.h
+
+/home/akhil/Documents/rnnoise-2/examples/rnnoise_demo_simple.c
+stdio.h
+-
+rnnoise.h
+/home/akhil/Documents/rnnoise-2/examples/rnnoise.h
+
